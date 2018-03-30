@@ -5,6 +5,8 @@ There are better alternatives available for some of them in the .NET Framework, 
 
 Any comments and suggestions are welcome. If you want to add a new design pattern implementation, just follow the naming conversation, fork my repo and submit a pull request. Same goes for any improvements and modifications.
 
+Based on the original [repo](https://github.com/abishekaditya/DesignPatterns), UIM diagrams would be added for each pattern.
+
 ## Types of Design Patterns
 ---------------------------
 There are three kinds of Design Patterns
@@ -57,3 +59,6 @@ There are three kinds of Design Patterns
 * [State](/StatePattern)
 * [Strategy](/StrategyPattern)
 * [Template](/TemplatePattern)
+
+## References
+[Impressive introduction to Factory Pattern](http://ichennan.com/2016/08/09/DesignPattern.html)
