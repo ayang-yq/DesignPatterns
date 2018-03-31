@@ -62,3 +62,4 @@ There are three kinds of Design Patterns
 
 ## References
 [Impressive introduction to Factory Pattern](http://ichennan.com/2016/08/09/DesignPattern.html)
+[Singleton in Depth](http://csharpindepth.com/Articles/General/Singleton.aspx)
